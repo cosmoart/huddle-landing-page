@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- <a href="http://example.com/" target="_blank">Solution URL</a>
+- <a href="https://www.frontendmentor.io/solutions/huddle-landing-page-solution-0a4S95Nv5X" target="_blank">Solution URL</a>
 - <a href="https://cosmoart.github.io/huddle-landing-page/" target="_blank">Live site</a>
 
 ## My process
