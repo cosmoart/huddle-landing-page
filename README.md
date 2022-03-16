@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- <a href="http://example.com/" target="_blank">Solution URL</a>
+- <a href="https://cosmoart.github.io/huddle-landing-page/" target="_blank">Live site</a>
 
 ## My process
 
