@@ -158,13 +158,13 @@ main nav i:hover {
         grid-template-columns: 53% 47%;
     }
     .image {
-        padding: 0 2rem;
+        padding: 0 1rem;
     }
     .image img{
         margin-top: 5rem;
     }
     h1 {
-        padding-right: 10rem;
+        padding-right: 5rem;
         line-height: 55px;
     }
 }
