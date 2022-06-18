@@ -91,4 +91,4 @@ This challenge was a great learning opportunity, it was also very useful to rein
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 [live-page]: https://cosmoart.github.io/huddle-landing-page/
-[solution-url]: https://cosmoart.github.io/huddle-landing-page/
+[solution-url]: https://www.frontendmentor.io/solutions/huddle-landing-page-solution-0a4S95Nv5X
